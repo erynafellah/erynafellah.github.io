@@ -26,11 +26,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: erynafellah
 facebook_username: erynafellah
-
+logo_img: "https://bl3302files.storage.live.com/y4mdwc2JKxuXFYwyPOtUHznU-Z1t4alYGTis6RODSLbgqxpYKdvRmauTF7RRefqVFjB5gQYC0ATIL6NDkIyAGtbBlC94vYAs5nbXPWQ2RjX68M6UZtxSZQHOShfy98kfuRS2LU0_m9i89_QuHjfWgOrI_NhFRW_7XYYRtY52JtGr8ORT5i70YgUJSDJu8CGzBJr?width=1365&height=200&cropmode=none"
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
