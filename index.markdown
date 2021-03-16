@@ -5,6 +5,42 @@
 layout: home
 ---
 
-![image-title-here](https://bl3302files.storage.live.com/y4m986H96qWeffeG1tZWSSg3Mf_QyfFT8TQCdDCVdnvVDtXFJzknSAqlTuVTX2XCzioReyGq5I-tWRmmb4vLhZqQGN1_bLLV90Ap3LriscUYl-zL-IxB4kiycR8IrLQhaeUSAILLVVzxroNpZR5LwDNlswPmgblUj8NNNY7Gy4OxoMh552jxC_ssFmXDS6y1osb?width=3840&height=4800&cropmode=none){:class="img-responsive"}
+<h1 style="text-align: center;"> Year 2020 Collections </h1>
+{% for item in site.pages %}
+    {% if item.page_type %}
+<div class="row">
+<div class="column-picture">
+<img src="{{item.images[0].image}}"  width="250" />
+</div>
+<div class="column-content">
+<h2>{{ item.title | escape }}</h2>
+<h3>RM {{ item.price | escape }}</h3>
+<a href="{{ item.url | relative_url }}">see more</a>
+</div>
+</div>
+    {% endif %}
+{% endfor %}
 
-Best cotton dress for kids and family!
+
+<style>
+.column-picture {
+  float: left;
+  width: 250px;
+}
+.column-content {
+  float: left;
+  width: 50%;
+  padding-left: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  padding: 20px;
+  
+}
+</style> 
+
+ 

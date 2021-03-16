@@ -3,9 +3,11 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
-    {%- if page_paths -%}
+    <a href="{{ "/" | relative_url }}"   >
+    <img src="https://bl3302files.storage.live.com/y4mdwc2JKxuXFYwyPOtUHznU-Z1t4alYGTis6RODSLbgqxpYKdvRmauTF7RRefqVFjB5gQYC0ATIL6NDkIyAGtbBlC94vYAs5nbXPWQ2RjX68M6UZtxSZQHOShfy98kfuRS2LU0_m9i89_QuHjfWgOrI_NhFRW_7XYYRtY52JtGr8ORT5i70YgUJSDJu8CGzBJr?width=1365&height=200&cropmode=none" height="80" style="display: block; margin-left: auto; margin-right: auto;" ></img>
+    </a>     
+  
+      {%- if page_paths -%}
       <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
@@ -16,14 +18,14 @@
           </span>
         </label>
 
-        <div class="trigger">
+        <!-- <div class="trigger">
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
+            {%- if my_page.title == "About" -%}
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
-        </div>
+        </div> -->
       </nav>
     {%- endif -%}
   </div>
