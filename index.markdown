@@ -5,7 +5,6 @@
 layout: home
 ---
 # Year 2020 Collections 
-<!-- <h1 style="text-align: center;"> Year 2020 Collections </h1> -->
 {% for item in site.pages %}
     {% if item.page_type %}
 <div class="row">
@@ -25,11 +24,11 @@ layout: home
 <style>
 .column-picture {
   float: left;
-  width: 20%;
+  width: 25%;
 }
 .column-content {
   float: left;
-  width: 70%;
+  width: 60%;
   padding-left: 20px;
 }
 
