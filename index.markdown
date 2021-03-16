@@ -4,16 +4,16 @@
 
 layout: home
 ---
-# Year 2020 Collections 
+# Year 2021 Collections 
 {% for item in site.pages %}
     {% if item.page_type %}
 <div class="row">
 <div class="column-picture">
-<img src="{{item.images[0].image}}"  width="250" />
+<img src="{{item.images[0].image}}"  height="200" />
 </div>
 <div class="column-content">
-<h2 style="margin-bottom: 1px;">{{ item.title | escape }}</h2>
-<h3 style="margin-top: -5px; margin-bottom: 1px;">RM {{ item.price | escape }}</h3>
+<h3 style="margin-bottom: 1px;">{{ item.title | escape }}</h3>
+<h4 style="margin-top: -5px; margin-bottom: 1px;">RM {{ item.price | escape }}</h4>
 <a href="{{ item.url | relative_url }}">see more</a>
 </div>
 </div>
