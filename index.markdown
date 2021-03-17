@@ -5,41 +5,6 @@
 layout: home
 ---
 # Year 2021 Collections 
-{% for item in site.pages %}
-    {% if item.page_type %}
-<div class="row">
-<div class="column-picture">
-<img src="{{item.images[0].image}}"  height="200" />
-</div>
-<div class="column-content">
-<h3 style="margin-bottom: 1px;">{{ item.title | escape }}</h3>
-<h4 style="margin-top: -5px; margin-bottom: 1px;">RM {{ item.price | escape }}</h4>
-<a href="{{ item.url | relative_url }}">see more</a>
-</div>
-</div>
-    {% endif %}
-{% endfor %}
 
-
-<style>
-.column-picture {
-  float: left;
-  width: 25%;
-}
-.column-content {
-  float: left;
-  width: 60%;
-  padding-left: 20px;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-  padding: 20px;
-  
-}
-</style> 
-
+{% include product_tile.html %}
  

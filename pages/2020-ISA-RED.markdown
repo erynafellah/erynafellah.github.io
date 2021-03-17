@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Isabella Kurung Moden
+title: Isabella Kurung Moden Red
 id: 2020-ISA-RED
-colour : yellow
+colour : Red
 page_type: product
 price : 250
 discount : 
