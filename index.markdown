@@ -12,5 +12,5 @@ layout: home
 contact us through WhatsApp by clicking the button below
 
 <button onclick="window.location.href='https://api.whatsapp.com/send?phone=60127658512';">
-        WhastApp To Buy!
+        WhatsApp To Buy!
 </button>
