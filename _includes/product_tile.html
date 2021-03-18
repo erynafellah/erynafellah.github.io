@@ -3,7 +3,7 @@
         {% if item.page_type %}
         <div class="column">
             <div class="column-item">
-                <img src="{{item.images[0].image}}"/>
+                <a href="{{item.url}}"> <img src="{{item.images[0].image}}"/> </a>
                 <h3 style="margin-bottom: 1px; font-weight: bold;">{{ item.title | escape }}</h3>
                 <h4 style="margin-top: -5px; margin-bottom: 1px;">RM {{ item.price | escape }}</h4>
                 <a href="{{ item.url | relative_url }}">see more</a>

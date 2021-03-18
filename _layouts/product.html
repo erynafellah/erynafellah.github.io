@@ -1,0 +1,94 @@
+---
+layout: default
+---
+<article class="post">
+
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title | escape }}</h1> {{page.id}} {{page.colour}}
+    </header>
+  
+    <div class="post-content">
+
+        {% if page.discount %}
+        <h2>  **~~RM {{page.price}}~~ RM {{page.discount}}** </h2>
+        {% else %}
+        <h2 style="font-weight: bold;"> RM {{page.price}} </h2>
+        {% endif %}
+
+        {% include carousel.html images=page.images height="100" unit="%" duration="7" %}
+
+        <h2>Description</h2> 
+        <ul>
+            {% for item in page.descriptions %}
+            <li> {{item.desc}} </li>
+            {% endfor %}
+        </ul>
+
+<!-- SIZE TABLE  -->
+        <h2>Size</h2>
+
+        <table>
+        {% for si in page.size %}
+            <tr>
+            {% if si.header %}
+                <th>
+            {% else %}
+                <td>
+            {% endif %}
+        {{si.name}}
+            {% if si.header %}
+                </th>
+            {% else %}
+                </td>
+            {% endif %}
+
+            {% for val in si.values %} 
+            {% if si.header %}
+                <th>
+            {% else %}
+                <td>
+            {% endif %}
+                {{val}}
+            {% if si.header %}
+                </th>
+            {% else %}
+                </td>
+            {% endif %}
+            {% endfor %}
+            </tr>
+        {% endfor %}
+        </table>
+
+        <h2>Pricing</h2>
+        <table style="width: fit-content;">
+           
+            <tr>
+                {% for price in page.prices %}
+                <th>{{price.header}}</th>
+                {% endfor %}
+            </tr>
+        
+            {% for i in (0..page.prices[0].values.size) %}
+             {%if i < page.prices[0].values.size%}
+                <tr>
+                    {% for j in (0..page.prices.size)  %}
+                    {%if j < page.prices.size  %}
+                    <td>{{page.prices[j].values[i]}}</td>
+                    {% endif%}
+                    {% endfor %}
+                </tr>
+              {% endif %}
+            {% endfor %}
+        </table>
+
+      {{ content }}
+    </div>
+  
+
+
+
+  
+    <button onclick="window.location.href='https://api.whatsapp.com/send?phone=60127658512';">
+        WhastApp To Buy!
+    </button>
+</article>
