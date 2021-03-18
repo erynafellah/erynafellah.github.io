@@ -4,7 +4,13 @@
 
 layout: home
 ---
-# Year 2021 Collections 
+# Raya 2021 Collections 
 
 {% include product_tile.html %}
  
+## Contact Us
+contact us through WhatsApp by clicking the button below
+
+<button onclick="window.location.href='https://api.whatsapp.com/send?phone=60127658512';">
+        WhastApp To Buy!
+</button>

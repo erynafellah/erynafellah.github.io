@@ -4,15 +4,15 @@ title: Anna Kurung Kedah Green
 id: 2020-ANN-GRE
 colour: Green
 page_type: product
-price : 250
+price : 129
 discount : 
 images:
 - image: https://bl3302files.storage.live.com/y4mtzQePuHB6BO10wRLJJSFTmLWIfcG88vyBeWw4mvj-tem41vxiR5qtWjyLky0Vxf6VJOT02FadrrKv1zDR5XyYJRURlxLLXNAX6UPWdunwGqwEvHmgbI6ROdbq_XLkpi1LZLEVcxQlYANpFiaFg5Ag9wCETCfxKQSnwUrDUV6e7bGCUVP2jkr6Nx5rDwtzDHX?width=819&height=1024&cropmode=none
 - image: https://bl3302files.storage.live.com/y4mbVTEozafJ-xIkVJpl3uoiW5xntsJcs7DXaWrsBP-d9-c8mQTqrIyk9umxmx0pBlqRWyVXvtyvhoITwJAdmr3Z-zRDmTkcYWwj2cgwfvBKUdEe9j7fHtyxcRzMaknFpfzCREFeW6qha3HUNEjj5D5qQncHPFFc3F72HHdZjUfntjh4Iau18x3SAq1xF53cHMz?width=819&height=1024&cropmode=none
 - image: https://bl3302files.storage.live.com/y4m4vfJkWvXoi9C1jfPQa856wQgC44m9S8HJJikOYzBLMWLrK5beLqfMUZv_ecTtzpppODyPvKt3bXi8zqFSPLcAEYEjXIWEXMJpKXAu_zPlMr5BgAGEObKejChWUcuvk0wj5TIEFE7XswaY1JT2toZEZ3HWss-kBPpozvdX2khQ3Yz30-rbueZnOyF5_3QrrWj?width=819&height=1024&cropmode=none
 descriptions:
-- desc: Design fabric
-- desc: come with multiple sizes
+- desc: The dress is made from premium designer cotton. The design has a round neck with zip at the back
+- desc: The bottom part of the dress is made from premium german cotton. With fully elastic wais and long folded skirt
 size:
 - name: Size
   header: yes
@@ -28,7 +28,7 @@ size:
 - name: 
   values: [ "","" ,"" ,"" ,"" , "" ]
 - name: Waist
-  values: [ 14, 15, 17, 18.5, 19.5, 20]
+  values: [ 14, 15, 17, 18.5, 19.5, 20.5]
 - name: Bottom
   values: [ 13, 15, 18, 21, 24, 27]
 prices:
@@ -37,9 +37,9 @@ prices:
   values: [ 0-6m , 6-12m , 1-2y , 3-4y , 5-6y , 7-8y ]
 - price:
   header: Price
-  values: [ RM 149,RM 149,RM 159,RM 169,RM 179,RM 189]
+  values: [ RM 139,RM 139,RM 149,RM 149,RM 159,RM 169]
   style: "text-decoration: line-through;"
 - price:
   header: Price after discount
-  values: [ RM 134,RM 134, RM 144, RM 154, RN 164, RM 174]
+  values: [ RM 129,RM 129, RM 139, RM 139, RN 149, RM 159]
 ---
