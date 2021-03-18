@@ -1,6 +1,6 @@
 ---
 layout: product
-title: Aidan Baju Melayu Green
+title: Aidan Baju Melayu
 id: 2020-ESH-GRE
 colour : Green
 page_type: product
@@ -10,6 +10,8 @@ images:
 - image: https://bl3302files.storage.live.com/y4mBhqE62zh25uBDgchKDTdJ8vzHjv9DCw1DFEFRuH4BjbTxHBPSqSR7kIXmXGFboiyIG8vbBibwZOZN0AS_9pzqX-17Nw-Jz4AUpfkRRgi1BcklB0Y8tjxmHYlfk5SxdUZzDqNl3w_mmal0wwF6w28WRdvBIajuKf86MgzOXu9bbF_Y1aYlqB_9iEc_gc3Wea-?width=819&height=1024&cropmode=none
 - image: https://bl3302files.storage.live.com/y4mw0EATvoTjxLUTPLFfcc3hhl9oCnVzCmrKAmdkCaDfucwqR7HTxzzfwbwpV99X70qWQl3W8cobqwFt81LbLnyhSzV2cjxCkJs2zq626vTBCPsp4oCjYurtSf6yDDO41LNlwEPKmFi7Bky-51okmvd1KFMo8cvI3BZmZF8yr8pwkivbu9tq44K8hKq_6aGNZoz?width=819&height=1024&cropmode=none
 - image: https://bl3302files.storage.live.com/y4mZ7EKWZxGxIZIG0yw9NFsLu4AVecuu3_0-R9f_n94L0EiXSEZwJNkKh5GA2WO0AsWdhX_V_ShT8fq8UOn_l356TCtCI0ZdhNzytlGiRN16JooucwNXToPhS27TyBH6MsosXfL4yzne0PoW-wQ0p3TChe1_iyPlWlINE_xCQZ3X9ldPOZLZXN_J9GNk-Qya7Kg?width=819&height=1024&cropmode=none
+image_height: 100
+descriptions:
 - desc: made from premium german cotton and pattern is made from premium designer cotton
 size:
 - name: Size

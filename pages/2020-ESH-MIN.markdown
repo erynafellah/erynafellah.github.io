@@ -1,6 +1,6 @@
 ---
 layout: product
-title: Aidan Baju Melayu Mint Green
+title: Aidan Baju Melayu 
 id: 2020-ESH-MIN
 colour : Mint Green
 page_type: product
@@ -10,6 +10,7 @@ images:
 - image: https://bl3302files.storage.live.com/y4m0WMWj5jUX-0q_kj78V1wHBgRNFwDesYPNBqpbVwU87Y97qfZiDn8rOnXOSAR3e3tfsEuCSimiAKUiaOksTD8Cqhuq8WQPikdqsS9qvulrL7Gmz_MqDK9kWaZYM0eusvgZafYBys0t3CDzGDBgQV3WKHVPJ6Oew2Y9hXktL_r2YcGjkRXf3nA0h4_LlNUhMaI?width=819&height=1024&cropmode=none
 - image: https://bl3302files.storage.live.com/y4mUhNdqiFFGK-y084NVut_aE8b1h0mJA6rV5phcq-3I_1CXfl22vAsvfdY0ce4SZ5H-vNuCeH1LswiEuJoUzOtkQ4-IQHUBQbOYkZiojBnwCiSQKL1JbfCPjsRPie8PGtelG18p33PZTDt76b6nOQOkXlUmpgnDt9GZVIoTS6xdH5D7ziPG7mD_Ho0xsTNfz6G?width=819&height=1024&cropmode=none
 - image: https://bl3302files.storage.live.com/y4mSMShs7YVo7Usw1KVegfAwVv7TyHFwdjkYNCWTMFOWXVe7qYf5PUzBxCPhnVjsE3g6qw-8hGM01p7sXF8R6bmIPY3hEX9YHO8_z63sxfOFQeFbdmintDyVXQUYC0il8KPuMVKPVcSgQ_1fQ7y1mbqzWE2tnSqk5lQRZZmzzfl7Qxk2gCm5fu5eVuQHYa0WYv9?width=819&height=1024&cropmode=none
+image_height: 100
 descriptions:
 - desc: made from premium german cotton and pattern is made from premium designer cotton
 size:

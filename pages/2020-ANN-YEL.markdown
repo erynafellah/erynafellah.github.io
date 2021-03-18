@@ -1,6 +1,6 @@
 ---
 layout: product
-title: Anna Kurung Kedah Yellow
+title: Anna Kurung Kedah
 id: 2020-ANN-YEL
 colour: yellow
 page_type: product
@@ -10,6 +10,7 @@ images:
 - image: https://bl3302files.storage.live.com/y4mCE9ljWJF8L8SKzGBnumaoW2PV0ybZoIurrtiKM-szQZ7sdbRdJAj_GGwhXiQ4eDqh0MxTOF2O2VQLSlBacFXmNkYFPpzRf08uq0w5y-SiHEEWnIu3RM89uhRlXrjt08vK2JN3nAyL0Bn_f-8Ws8hNzZc3jAenhUZWMFQLmlLnHCJECOJPUSuq6h4_b2VDS2H?width=819&height=1024&cropmode=none
 - image: https://bl3302files.storage.live.com/y4mKeJT-qKvG3oobxnLdf18fooOIlW_tIfW76ZM-_d_6DDjvYhxhB-05m3oqABT_MZo-_VbrUZIM5s65zY26kslXgab2IOxYgB62RaQ0w_OoeD7Xuh5XjATN2b4ENuCOOQWxhPrbq4DGS-TGlJFqtYjlI-bcdCNRxeybcOwAZsU0RRxozhXS5kQHfbSPHg7UOPr?width=819&height=1024&cropmode=none
 - image: https://bl3302files.storage.live.com/y4m2rKKqo6Hgi8CqqfHkR9pkuuqVKoy6vBl7BJNjlAskilbl3OghHqX2DQgSJqYJ5uSV8mNBjLLS1tc811_lbtkLEm7oCoBGN4atZZgEKnrVUy0SzUNgwDRNLzxVPiNr_a0d_Ufnhapq1y-FlZvPnqXJNn6ep1YkFhxq1jMb6U6gRsqA0yDf21FStaeM23YNAAC?width=819&height=1024&cropmode=none
+image_height: 100
 descriptions:
 - desc: The dress is made from premium designer cotton. The design has a round neck with zip at the back
 - desc: The bottom part of the dress is made from premium german cotton. With fully elastic wais and long folded skirt

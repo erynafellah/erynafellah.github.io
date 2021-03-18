@@ -4,7 +4,7 @@
 
 layout: home
 ---
-# Raya 2021 Collections 
+## Raya 2021 Collections
 
 {% include product_tile.html %}
  
