@@ -14,7 +14,7 @@ images:
 image_height: 100
 descriptions:
 - desc: The dress is made from premium designer cotton. The design has a round neck with zip at the back
-- desc: The bottom part of the dress is made from premium german cotton. With fully elastic wais and long folded skirt
+- desc: The bottom part of the dress is made from premium german cotton. With fully elastic waist and long folded skirt
 size:
 - name: Size
   header: yes

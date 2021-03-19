@@ -5,13 +5,18 @@ layout: default
 
     <header class="post-header">
       <h1 class="post-title">{{ page.title | escape }}</h1> 
-      <p style="margin-top: -10px;">{{page.id}} {{page.colour}}</p>
+      <p style="margin-top: -10px; font-weight: bold;">{{page.id}} {{page.colour}}</p>
     </header>
   
     <div class="post-content">
 
+        {% if page.before_price %}
+        <h2 style="font-weight: bold;"> <strike> RM {{page.before_price}}</strike>  RM {{page.price}}  </h2>
+        {% else %}
         <h2 style="font-weight: bold;">From RM {{page.price}} </h2>
-        <h3 style="margin-top: -25px;">deposit RM {{page.deposit}} </h3>
+        {% endif %}
+        <p style="margin-top: -15px;">** Deposit RM {{page.deposit}} </p>
+        <p style="margin-top: -20px;">** Preorder basis only </p>
 
 
         {% include carousel.html images=page.images height=page.image_height unit="%" duration="7" %}
@@ -24,8 +29,8 @@ layout: default
         </ul>
 
 <!-- SIZE TABLE  -->
+        {% if  page.size %}
         <h3>Size</h3>
-
         <table style="font-size: small; width: fit-content;">
         {% for si in page.size %}
             <tr >
@@ -57,7 +62,11 @@ layout: default
             </tr>
         {% endfor %}
         </table>
+        <h5 style="margin-top: -25px;">** measurement in inch </h5>
+        {% endif %}
 
+
+        {%if page.prices %}
         <h3>Pricing</h3>
         <table style="width: fit-content;">
            
@@ -79,6 +88,7 @@ layout: default
               {% endif %}
             {% endfor %}
         </table>
+        {% endif %}
 
         {% if page.sampin_prices %}
         <h3>Sampin pricing</h3>
@@ -110,4 +120,5 @@ layout: default
     <button onclick="window.location.href='https://wa.me/60127658512?text=interested%20in%0Ahttps://erynafellah.github.io{{page.url}}';">
         WhatsApp To Buy This!
     </button>
+    
 </article>

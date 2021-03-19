@@ -44,5 +44,5 @@ prices:
   style: "text-decoration: line-through;"
 - price:
   header: Price after discount
-  values: [ RM 134,RM 134, RM 144, RM 154, RN 164, RM 174]
+  values: [ RM 134,RM 134, RM 144, RM 154, RM 164, RM 174]
 ---  

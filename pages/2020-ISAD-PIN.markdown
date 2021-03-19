@@ -5,6 +5,7 @@ id: 2020-ISAD-PIN
 colour : Pink
 page_type: product
 price : 269
+before_price : 299
 deposit: 100
 images:
 - image: https://bl3302files.storage.live.com/y4mshtESWTXLMRuOkaJbTorkeG8iBntveVD9MqFLFt1U3sDnny2LVCgbjwIojm0GPH2CE-MbZ2gPMpezhzXVXlQGON9YdixZwNRyR_87cjbh6JdL5GtDgCq-z7eraw_xysfsqaWCS7Xk3eF7qWgy7IrB5zYZyjF7yQ6VHTDzLc4gWgx_g9ihbzYlt25lEnet4BT?width=819&height=1024&cropmode=none
@@ -14,7 +15,7 @@ images:
 image_height: 120
 descriptions:
 - desc: The top part of the dress is made from premium thai silk / premium german cotton. The design is round neck with zip at the back. Border lace with exclusive beads
-- desc: The bottom part of the dress is fully elastic waist, long folded skirt.
+- desc: The bottom part of the dress is partially elastic waist, long folded skirt.
 size:
 - name: Size
   header: yes

@@ -5,6 +5,7 @@ id: 2020-ISAD-MIN
 colour : Mint Green
 page_type: product
 price : 269
+before_price : 299
 deposit: 100
 images:
 - image: https://bl3302files.storage.live.com/y4mK8dtImZmE0lYk-6pfZ1l1wHOBynxwUxCCGqU46b2HaJYHx7j-Y8lp9KETxzQeINKVWV1fwFnxe6Kz7KtUZSRTltizwO3vE4UrmdTqsFiFT9WKhH5psJSMKnndwJtXykT4Qafqh8b3iaG7i17mvQ9jRgVGyV4-mwfzshsIfFibZ63mJcDGRB-afTpma5Zovhm?width=819&height=1024&cropmode=none
@@ -14,7 +15,7 @@ images:
 image_height: 120
 descriptions:
 - desc: The top part of the dress is made from premium thai silk / premium german cotton. The design is round neck with zip at the back. Border lace with exclusive beads
-- desc: The bottom part of the dress is fully elastic waist, long folded skirt.
+- desc: The bottom part of the dress is partially elastic waist, long folded skirt.
 size:
 - name: Size
   header: yes
