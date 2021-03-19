@@ -1,10 +1,11 @@
 ---
 layout: product
 title: Anna Kurung Kedah
-id: 2020-ANN-GRE
-colour: Green
+id: 2020-ANN-EME
+colour: Emerald Green
 page_type: product
 price : 129
+deposit: 70
 discount : 
 images:
 - image: https://bl3302files.storage.live.com/y4mtzQePuHB6BO10wRLJJSFTmLWIfcG88vyBeWw4mvj-tem41vxiR5qtWjyLky0Vxf6VJOT02FadrrKv1zDR5XyYJRURlxLLXNAX6UPWdunwGqwEvHmgbI6ROdbq_XLkpi1LZLEVcxQlYANpFiaFg5Ag9wCETCfxKQSnwUrDUV6e7bGCUVP2jkr6Nx5rDwtzDHX?width=819&height=1024&cropmode=none

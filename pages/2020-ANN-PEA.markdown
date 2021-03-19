@@ -1,10 +1,11 @@
 ---
 layout: product
 title: Anna Kurung Kedah
-id: 2020-ANN-YEL
-colour: yellow
+id: 2020-ANN-PEA
+colour: Peach
 page_type: product
 price : 129
+deposit: 70
 discount : 
 images:
 - image: https://bl3302files.storage.live.com/y4mCE9ljWJF8L8SKzGBnumaoW2PV0ybZoIurrtiKM-szQZ7sdbRdJAj_GGwhXiQ4eDqh0MxTOF2O2VQLSlBacFXmNkYFPpzRf08uq0w5y-SiHEEWnIu3RM89uhRlXrjt08vK2JN3nAyL0Bn_f-8Ws8hNzZc3jAenhUZWMFQLmlLnHCJECOJPUSuq6h4_b2VDS2H?width=819&height=1024&cropmode=none

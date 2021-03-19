@@ -1,10 +1,11 @@
 ---
 layout: product
-title: Aidan Baju Melayu 
+title: Eshan Baju Melayu 
 id: 2020-ESH-MIN
 colour : Mint Green
 page_type: product
 price : 99
+deposit: 60
 images:
 - image: https://bl3302files.storage.live.com/y4mdQfBtUkSCB62rM7QXJh6npdVjfzJwtSz_DRFuWEh3yozA50EQ2O8bUbohq_pLH1Ki-aXi8iEtAJtO_XVptfPYU5u8za8Vw-ssA65XjHisxXHmxpkiAl-pgx7qAvBWdLtYXeki8Shswj1dt9LMhI18r97NmHOiuVZvkYx90ik8IMGn5hpNMCKRPNhZvzM8g1f?width=819&height=1024&cropmode=none
 - image: https://bl3302files.storage.live.com/y4m0WMWj5jUX-0q_kj78V1wHBgRNFwDesYPNBqpbVwU87Y97qfZiDn8rOnXOSAR3e3tfsEuCSimiAKUiaOksTD8Cqhuq8WQPikdqsS9qvulrL7Gmz_MqDK9kWaZYM0eusvgZafYBys0t3CDzGDBgQV3WKHVPJ6Oew2Y9hXktL_r2YcGjkRXf3nA0h4_LlNUhMaI?width=819&height=1024&cropmode=none

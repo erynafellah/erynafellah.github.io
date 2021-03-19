@@ -1,10 +1,11 @@
 ---
 layout: product
 title: Anna Kurung Kedah
-id: 2020-ANN-TUR
-colour: Turqoise
+id: 2020-ANN-BLT
+colour: Blue Turqoise
 page_type: product
 price : 129
+deposit: 70
 discount : 
 images:
 - image: https://bl3302files.storage.live.com/y4mZsn0HBXY2Q9FLiAumVToAdj73hu0nGdRU1d6TXozxxRll-Wx1dVSQZtJ0c01IeAi9xrie3YjXCOtqGOb8cnbGS9TFddR9Hhlh2q8laTIQf4sQrCefI3Lyn6C0LB9lWgPoto6hrlbtNFcqb5wm9S7TDtacBVQ55UzCU7DOwUg0E7feJZYQo2PiamoG5QXbd3W?width=819&height=1024&cropmode=none

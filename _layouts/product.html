@@ -4,12 +4,15 @@ layout: default
 <article class="post">
 
     <header class="post-header">
-      <h1 class="post-title">{{ page.title | escape }}</h1> {{page.id}} {{page.colour}}
+      <h1 class="post-title">{{ page.title | escape }}</h1> 
+      <p style="margin-top: -10px;">{{page.id}} {{page.colour}}</p>
     </header>
   
     <div class="post-content">
 
         <h2 style="font-weight: bold;">From RM {{page.price}} </h2>
+        <h3 style="margin-top: -25px;">deposit RM {{page.deposit}} </h3>
+
 
         {% include carousel.html images=page.images height=page.image_height unit="%" duration="7" %}
 
@@ -105,6 +108,6 @@ layout: default
     </div>
   
     <button onclick="window.location.href='https://wa.me/60127658512?text=interested%20in%0Ahttps://erynafellah.github.io{{page.url}}';">
-        WhastApp To Buy This!
+        WhatsApp To Buy This!
     </button>
 </article>

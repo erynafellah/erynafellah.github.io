@@ -5,6 +5,7 @@ id: 2020-ANN-MIN
 colour: Mint Green
 page_type: product
 price : 129
+deposit: 70
 discount : 
 images:
 - image: https://bl3302files.storage.live.com/y4mERU3PCX7rSzZ1ThGf_MKXRLlyeIu6GKYNuJAlgRuR-1akLGCsr7GIQ3j_PbvlsOQmDYYMjeh1N3xUPdMMg1tpwqLZlYxw95j4RMdJ_yeYXj7bpqxxKmSiosre0WRaveYMnRlycNgizBU3hsYg4SuofkqpCJ189aSlCltGL8hqKvJNHZ65L3OWVVWW2f4gq56?width=819&height=1024&cropmode=none

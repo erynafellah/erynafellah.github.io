@@ -1,10 +1,11 @@
 ---
 layout: product
-title: Aidan Baju Melayu 
-id: 2020-ESH-RED
-colour : Red
+title: Eshan Baju Melayu 
+id: 2020-ESH-MAR
+colour : Maroon
 page_type: product
 price : 99
+deposit: 60
 images:
 - image: https://bl3302files.storage.live.com/y4mUuFcSrmAYhclxUf_uQ9bGPJlcUGZQICA69XNMnEuy3cySoa3V6Ck330bDvRm7ChD6GAtMK7tveYWhCu9ZPkqBx6hPdZbQY38Cltl4cH3nU6BacibToGo_jzb4KMBrSsqkkNz-tfYOaVz6V8HeerZ6_8FkeLLzcg-xVImePWvjthAYMNBlgFGa4ywRjwC9Qw1?width=819&height=1024&cropmode=none
 - image: https://bl3302files.storage.live.com/y4mlaSnI6zMHNPQZ9NaOSVt2EvrjbFTJcnHZlor4V68RY50UbNBuLxQ8ujGX-L54YbIl4tvtbSOzYloofbKE5fJEbAOPZB8Ep_cUqHgnLo3G6Ta0o4iH8WRv5bpaWbbn47o4e-rBCJiSf36sWxsUMKhrFvpR96ZH0VkA4KX-sc7aBtNMXATOSsj5o6SAnhEnlxZ?width=819&height=1024&cropmode=none
